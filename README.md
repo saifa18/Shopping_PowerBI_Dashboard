@@ -44,4 +44,4 @@ The dashboard features navigation buttons for seamless transitions between:
 3. Explore the interactive features and filters.
 
 ## Contact
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/saifansari1) or email me at your-email@example.com for collaboration or feedback.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/saifansari1) or email me at saif.ansari9223@gmail.com for collaboration or feedback.
