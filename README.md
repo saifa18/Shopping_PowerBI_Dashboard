@@ -42,6 +42,7 @@ The dashboard features navigation buttons for seamless transitions between:
 1. Clone this repository.
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the interactive features and filters.
+4. Or press this public link to see the dashboard: https://app.powerbi.com/view?r=eyJrIjoiZTNjOWY3NGMtZTAwYy00NTNmLTgzOTItOTY3YTFlZmNkYjAwIiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9
 
 ## Contact
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/saifansari1) or email me at saif.ansari9223@gmail.com for collaboration or feedback.
